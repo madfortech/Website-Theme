@@ -1,0 +1,37 @@
+
+/* Style all font awesome icons */
+.fa {
+    padding:20px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+    color:#7E8AA2;
+    text-decoration:none;
+}
+
+/* Set a specific color for each brand */
+
+/* GITHUB */
+.fa-github {
+    color: #7E8AA2;
+}
+/* Set a specific color for each brand */
+
+/* TWITTER */
+.fa-twitter {
+    color: #7E8AA2;
+}
+/* Set a specific color for each brand */
+
+/* YOUTUBE */
+.fa-youtube-play {
+    color: #7E8AA2;
+}
+/** FACEBOOK **/
+.fa-facebook{
+   color: #7E8AA2;
+}
